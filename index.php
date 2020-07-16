@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body> 
-<h3> A Simple HTML - PHP Framework Developed by Yte ( Justice Igwe ) </h3>
+<h3> A Simple HTML - PHP Framework Developed by Yte </h3>
 <p> This simple to use framework will help you work around your html forms and its elements easily.
 <br/>
 you do not need to know html coding, just learn how to use this my framework and you are good to go
